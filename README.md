@@ -11,4 +11,8 @@ Lets goo....
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayo-byte07/DSA-Python/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
