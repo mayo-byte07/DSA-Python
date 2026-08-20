@@ -6,6 +6,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayo-byte07/DSA-Python/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mayo-byte07/DSA-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mayo-byte07/DSA-Python/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -44,4 +45,12 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayo-byte07/DSA-Python/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mayo-byte07/DSA-Python/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mayo-byte07/DSA-Python/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
