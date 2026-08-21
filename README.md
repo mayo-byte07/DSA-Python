@@ -8,6 +8,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0001-two-sum](https://github.com/mayo-byte07/DSA-Python/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayo-byte07/DSA-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mayo-byte07/DSA-Python/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/mayo-byte07/DSA-Python/tree/master/0027-remove-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayo-byte07/DSA-Python/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/mayo-byte07/DSA-Python/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
