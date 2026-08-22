@@ -115,4 +115,8 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayo-byte07/DSA-Python/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mayo-byte07/DSA-Python/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
