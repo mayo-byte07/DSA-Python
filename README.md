@@ -10,6 +10,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0011-container-with-most-water](https://github.com/mayo-byte07/DSA-Python/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mayo-byte07/DSA-Python/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mayo-byte07/DSA-Python/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mayo-byte07/DSA-Python/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayo-byte07/DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mayo-byte07/DSA-Python/tree/master/0027-remove-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -82,6 +83,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0005-longest-palindromic-substring](https://github.com/mayo-byte07/DSA-Python/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mayo-byte07/DSA-Python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mayo-byte07/DSA-Python/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mayo-byte07/DSA-Python/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayo-byte07/DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mayo-byte07/DSA-Python/tree/master/0027-remove-element) |
 ## Dynamic Programming
@@ -108,6 +110,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mayo-byte07/DSA-Python/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mayo-byte07/DSA-Python/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
