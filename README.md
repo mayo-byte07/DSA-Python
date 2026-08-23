@@ -39,6 +39,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0005-longest-palindromic-substring](https://github.com/mayo-byte07/DSA-Python/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/mayo-byte07/DSA-Python/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/mayo-byte07/DSA-Python/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/mayo-byte07/DSA-Python/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/mayo-byte07/DSA-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayo-byte07/DSA-Python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mayo-byte07/DSA-Python/tree/master/0014-longest-common-prefix) |
@@ -65,6 +66,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayo-byte07/DSA-Python/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/mayo-byte07/DSA-Python/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/mayo-byte07/DSA-Python/tree/master/0021-merge-two-sorted-lists) |
 ## Binary Search
 |  |
@@ -92,6 +94,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayo-byte07/DSA-Python/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/mayo-byte07/DSA-Python/tree/master/0010-regular-expression-matching) |
 ## Manacher
 |  |
 | ------- |
