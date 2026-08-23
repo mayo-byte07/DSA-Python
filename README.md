@@ -47,6 +47,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0014-longest-common-prefix](https://github.com/mayo-byte07/DSA-Python/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 ## Trie
 |  |
@@ -60,6 +61,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +103,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayo-byte07/DSA-Python/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/mayo-byte07/DSA-Python/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -143,4 +146,5 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
