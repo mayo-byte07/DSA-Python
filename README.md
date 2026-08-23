@@ -29,6 +29,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0009-palindrome-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mayo-byte07/DSA-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayo-byte07/DSA-Python/tree/master/0013-roman-to-integer) |
+| [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayo-byte07/DSA-Python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -42,6 +43,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0013-roman-to-integer](https://github.com/mayo-byte07/DSA-Python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mayo-byte07/DSA-Python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0020-valid-parentheses) |
+| [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 ## Trie
 |  |
 | ------- |
@@ -115,6 +117,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayo-byte07/DSA-Python/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 ## Database
 |  |
 | ------- |
@@ -122,4 +125,8 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0181-employees-earning-more-than-their-managers](https://github.com/mayo-byte07/DSA-Python/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/mayo-byte07/DSA-Python/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/mayo-byte07/DSA-Python/tree/master/0620-not-boring-movies) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
