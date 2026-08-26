@@ -49,6 +49,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0020-valid-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayo-byte07/DSA-Python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
 |  |
 | ------- |
@@ -89,6 +90,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayo-byte07/DSA-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayo-byte07/DSA-Python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Two Pointers
 |  |
 | ------- |
