@@ -15,6 +15,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayo-byte07/DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mayo-byte07/DSA-Python/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mayo-byte07/DSA-Python/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayo-byte07/DSA-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayo-byte07/DSA-Python/tree/master/0035-search-insert-position) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
@@ -83,6 +84,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayo-byte07/DSA-Python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayo-byte07/DSA-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayo-byte07/DSA-Python/tree/master/0035-search-insert-position) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
