@@ -17,6 +17,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0031-next-permutation](https://github.com/mayo-byte07/DSA-Python/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayo-byte07/DSA-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayo-byte07/DSA-Python/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/mayo-byte07/DSA-Python/tree/master/0066-plus-one) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0009-palindrome-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mayo-byte07/DSA-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayo-byte07/DSA-Python/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/mayo-byte07/DSA-Python/tree/master/0066-plus-one) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayo-byte07/DSA-Python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
