@@ -161,6 +161,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0584-find-customer-referee](https://github.com/mayo-byte07/DSA-Python/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mayo-byte07/DSA-Python/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/mayo-byte07/DSA-Python/tree/master/0620-not-boring-movies) |
+| [1193-monthly-transactions-i](https://github.com/mayo-byte07/DSA-Python/tree/master/1193-monthly-transactions-i) |
 ## Game Theory
 |  |
 | ------- |
