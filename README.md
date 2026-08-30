@@ -36,6 +36,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0012-integer-to-roman](https://github.com/mayo-byte07/DSA-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayo-byte07/DSA-Python/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mayo-byte07/DSA-Python/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayo-byte07/DSA-Python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -55,6 +56,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayo-byte07/DSA-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mayo-byte07/DSA-Python/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayo-byte07/DSA-Python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
@@ -126,6 +128,7 @@ I AM JUST TESTING MY HANDS ON DSA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -190,4 +193,8 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayo-byte07/DSA-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
