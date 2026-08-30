@@ -1,1 +1,19 @@
+# 1. Force GitHub to include SQL in your language statistics
 *.sql linguist-detectable
+
+# 2. Normalize line endings for cross-platform compatibility
+* text=auto
+
+# 3. Prevent virtual environments from skewing language stats
+venv/ linguist-vendored
+.venv/ linguist-vendored
+env/ linguist-vendored
+
+# 4. Exclude IDE configuration files from language stats
+.vscode/ linguist-vendored
+.idea/ linguist-vendored
+
+# 5. Exclude data input/output files from being counted as code
+*.csv linguist-generated
+*.json linguist-generated
+*.txt linguist-generated
