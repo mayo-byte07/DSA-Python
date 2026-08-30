@@ -38,6 +38,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0066-plus-one](https://github.com/mayo-byte07/DSA-Python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mayo-byte07/DSA-Python/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayo-byte07/DSA-Python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -123,6 +124,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0005-longest-palindromic-substring](https://github.com/mayo-byte07/DSA-Python/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/mayo-byte07/DSA-Python/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -203,4 +205,8 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mayo-byte07/DSA-Python/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
