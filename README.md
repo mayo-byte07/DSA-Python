@@ -167,6 +167,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1045-customers-who-bought-all-products](https://github.com/mayo-byte07/DSA-Python/tree/master/1045-customers-who-bought-all-products) |
 | [1193-monthly-transactions-i](https://github.com/mayo-byte07/DSA-Python/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/mayo-byte07/DSA-Python/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/mayo-byte07/DSA-Python/tree/master/1341-movie-rating) |
 ## Game Theory
 |  |
 | ------- |
