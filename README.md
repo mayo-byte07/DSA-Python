@@ -18,6 +18,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/mayo-byte07/DSA-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayo-byte07/DSA-Python/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/mayo-byte07/DSA-Python/tree/master/0066-plus-one) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -29,6 +30,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0012-integer-to-roman](https://github.com/mayo-byte07/DSA-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayo-byte07/DSA-Python/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -233,5 +235,6 @@ I AM JUST TESTING MY HANDS ON DSA
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
