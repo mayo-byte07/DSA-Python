@@ -71,6 +71,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayo-byte07/DSA-Python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
@@ -136,6 +137,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0031-next-permutation](https://github.com/mayo-byte07/DSA-Python/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +146,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
 | ------- |
