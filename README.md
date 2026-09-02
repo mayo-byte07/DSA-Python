@@ -24,6 +24,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0088-merge-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
@@ -87,6 +88,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -271,6 +273,7 @@ I AM JUST TESTING MY HANDS ON DSA
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
