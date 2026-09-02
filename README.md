@@ -23,6 +23,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0088-merge-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayo-byte07/DSA-Python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
