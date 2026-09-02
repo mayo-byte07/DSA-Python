@@ -87,6 +87,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
+| [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -263,4 +264,16 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
