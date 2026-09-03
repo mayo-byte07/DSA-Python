@@ -29,6 +29,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -143,6 +144,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0004-median-of-two-sorted-arrays](https://github.com/mayo-byte07/DSA-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mayo-byte07/DSA-Python/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -180,6 +182,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -326,4 +329,12 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
