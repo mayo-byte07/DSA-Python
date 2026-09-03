@@ -179,6 +179,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
