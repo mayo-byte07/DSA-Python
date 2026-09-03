@@ -51,6 +51,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0146-lru-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0460-lfu-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0460-lfu-cache) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -124,6 +125,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0023-merge-k-sorted-lists](https://github.com/mayo-byte07/DSA-Python/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mayo-byte07/DSA-Python/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -316,6 +318,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0146-lru-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0460-lfu-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -362,4 +365,5 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
