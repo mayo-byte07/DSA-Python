@@ -235,6 +235,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0585-investments-in-2016](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mayo-byte07/DSA-Python/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/mayo-byte07/DSA-Python/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/mayo-byte07/DSA-Python/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/mayo-byte07/DSA-Python/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/mayo-byte07/DSA-Python/tree/master/1045-customers-who-bought-all-products) |
