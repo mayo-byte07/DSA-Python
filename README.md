@@ -25,6 +25,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0088-merge-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -46,6 +47,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
@@ -144,6 +146,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0004-median-of-two-sorted-arrays](https://github.com/mayo-byte07/DSA-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mayo-byte07/DSA-Python/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
@@ -210,6 +213,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0016-3sum-closest](https://github.com/mayo-byte07/DSA-Python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mayo-byte07/DSA-Python/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
@@ -337,4 +341,12 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
