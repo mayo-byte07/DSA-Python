@@ -40,6 +40,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -107,6 +108,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mayo-byte07/DSA-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mayo-byte07/DSA-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/mayo-byte07/DSA-Python/tree/master/0023-merge-k-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mayo-byte07/DSA-Python/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -151,6 +153,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayo-byte07/DSA-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mayo-byte07/DSA-Python/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
@@ -298,4 +301,8 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
