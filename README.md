@@ -28,6 +28,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
+| [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
@@ -83,6 +84,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0076-minimum-window-substring](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
+| [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 | [1768-merge-strings-alternately](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayo-byte07/DSA-Python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -90,6 +92,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mayo-byte07/DSA-Python/tree/master/0014-longest-common-prefix) |
+| [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +131,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0069-sqrtx](https://github.com/mayo-byte07/DSA-Python/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
@@ -199,6 +203,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0088-merge-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 ## Greedy
 |  |
 | ------- |
@@ -233,6 +238,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mayo-byte07/DSA-Python/tree/master/0023-merge-k-sorted-lists) |
+| [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 ## Merge Sort
 |  |
 | ------- |
