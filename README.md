@@ -19,6 +19,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayo-byte07/DSA-Python/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mayo-byte07/DSA-Python/tree/master/0066-plus-one) |
@@ -257,6 +258,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
 ## Heap (Priority Queue)
