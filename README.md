@@ -33,6 +33,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0216-combination-sum-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0724-find-pivot-index](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
@@ -328,6 +329,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
