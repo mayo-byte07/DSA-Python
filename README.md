@@ -335,6 +335,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0208-implement-trie-prefix-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0460-lfu-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -344,6 +345,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
@@ -373,6 +375,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
